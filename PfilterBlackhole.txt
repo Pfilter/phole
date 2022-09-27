@@ -983,7 +983,6 @@ ff02::3 ip6-allhosts
 0.0.0.0     ephemeralcounters.api.roblox.com
 0.0.0.0     (\.|^)roblox\.com$
 0.0.0.0     audio-ake.spotify.com.edgesuite.net
-0.0.0.0     (\.|^)anydesk.com$
 0.0.0.0     bam.nr-data.net
 0.0.0.0     femetrics.grammarly.io
 0.0.0.0     treatment.grammarly.com
