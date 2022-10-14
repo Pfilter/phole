@@ -992,4 +992,12 @@ ff02::3 ip6-allhosts
 0.0.0.0     www.gravatar.com
 0.0.0.0     creatures-of-sonaria-official.fandom.com
 0.0.0.0     dev.fandom.com
-
+0.0.0.0     (\.|^)troopmessenger.com
+0.0.0.0     (\.|^)TeamSpeak.com
+0.0.0.0     (\.|^)chanty.com
+0.0.0.0     (\.|^)heyspace.com
+0.0.0.0     (\.|^)mumble.com
+0.0.0.0     (\.|^)overtone.com
+0.0.0.0     (\.|^)raidcall.com
+0.0.0.0     (\.|^)ventrilio.com
+0.0.0.0     (\.|^)viber.com
