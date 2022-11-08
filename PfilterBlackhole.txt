@@ -1004,3 +1004,4 @@ ff02::3 ip6-allhosts
 0.0.0.0     (\.|^)crazyegg.com
 0.0.0.0     (\.|^)wolvden.com
 0.0.0.0     (\.|^)lioden.com
+0.0.0.0     (\.|^)toyhou.se
