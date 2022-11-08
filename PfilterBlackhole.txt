@@ -1002,3 +1002,5 @@ ff02::3 ip6-allhosts
 0.0.0.0     (\.|^)ventrilio.com
 0.0.0.0     (\.|^)viber.com
 0.0.0.0     (\.|^)crazyegg.com
+0.0.0.0     (\.|^)wolvden.com
+0.0.0.0     (\.|^)lioden.com
