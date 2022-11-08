@@ -1007,3 +1007,7 @@ ff02::3 ip6-allhosts
 0.0.0.0     (\.|^)toyhou.se
 0.0.0.0     (\.|^)fandom.com
 0.0.0.0     (\.|^)randimg.net
+0.0.0.0     (\.|^)postimg.cc
+0.0.0.0     (\.|^)ibb.co
+0.0.0.0     (\.|^)lioden.wiki
+0.0.0.0     (\.|^)tawk.to
