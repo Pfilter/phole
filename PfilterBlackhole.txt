@@ -991,3 +991,7 @@
 0.0.0.0     (\.|^)ibb\.co$
 0.0.0.0     (\.|^)lioden\.wiki$
 0.0.0.0     (\.|^)tawk\.to$
+0.0.0.0     (\.|^)fandom\.com
+0.0.0.0     vignette.wikia.nocookie.net
+0.0.0.0     creatures-of-sonaria-official.fandom.com
+0.0.0.0     script.wikia.nocookie.net
