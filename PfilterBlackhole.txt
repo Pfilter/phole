@@ -999,4 +999,5 @@
 0.0.0.0     (\.|^)narrativ\.com$
 0.0.0.0     geo.privacymanager.io
 0.0.0.0     ats-wrapper.privacymanager.io
-
+0.0.0.0     untoldtales.proboards.com
+0.0.0.0     apawineachworld.com
