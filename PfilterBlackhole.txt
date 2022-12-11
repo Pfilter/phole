@@ -1001,3 +1001,5 @@
 0.0.0.0     ats-wrapper.privacymanager.io
 0.0.0.0     untoldtales.proboards.com
 0.0.0.0     apawineachworld.com
+0.0.0.0     feral-heart.com
+0.0.0.0     (\.|^)feral-heart\.com$
