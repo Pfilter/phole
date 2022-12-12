@@ -4,6 +4,29 @@
 #=====================================
 # Title: Hosts to block, by Pfilter
 
+0.0.0.0     status.discord.com
+0.0.0.0     latency.discord.media
+0.0.0.0     cdn.discordapp.com
+0.0.0.0     images-ext-2.discordapp.net
+0.0.0.0     images-ext-1.discordapp.net
+0.0.0.0     media.discord.com
+0.0.0.0     www.discord.com
+0.0.0.0     media.discordapp.net
+0.0.0.0     discord.com
+0.0.0.0     discordstatus.com
+0.0.0.0     us-central4565.discord.media
+0.0.0.0     discord-attachments-uploads-prd.storage.googleapis.com
+0.0.0.0     gateway-us-east1-b.discord.gg
+0.0.0.0     images-ext-1.discordapp.net
+0.0.0.0     images-ext-2.discordapp.net
+0.0.0.0     creatures-of-sonaria-official.fandom.com
+0.0.0.0     (\.|^)discordstatus\.com$
+0.0.0.0     (\.|^)discord\.media$
+0.0.0.0     (\.|^)discord\.gg$
+0.0.0.0     (\.|^)discordapp\.com$
+0.0.0.0     (\.|^)discordapp\.net$
+0.0.0.0     (\.|^)discord\.com$
+0.0.0.0     (\.|^)discord\.co$
 0.0.0.0     giga.logs.roku.com
 0.0.0.0     wpad.localdomain
 0.0.0.0     detectportal.firefox.com
@@ -38,10 +61,8 @@
 0.0.0.0     (\.|^)humanpresence\.app$
 0.0.0.0     (\.|^)twittervideodownloader\.com$
 0.0.0.0     (\.|^)instagram\.com$
-0.0.0.0     (\.|^)discord\.gg$
 0.0.0.0     xf.gdprvalidate.de
 0.0.0.0     (\.|^)spotify\.com$
-0.0.0.0     (\.|^)discordapp\.com$
 0.0.0.0     (\.|^)snapchat\.com$
 0.0.0.0     (\.|^)kik\.com$
 0.0.0.0     kik.localdomain
@@ -114,7 +135,6 @@
 0.0.0.0     (\.|^)deviantart\.net$
 0.0.0.0     (\.|^)redditstatic\.com$
 0.0.0.0     (\.|^)ibb\.co$
-0.0.0.0     (\.|^)discordapp\.net$
 0.0.0.0     (\.|^)tinypic\.com$
 0.0.0.0     (\.|^)signavatar\.com$
 0.0.0.0     (\.|^)pitapata\.com$
@@ -207,7 +227,6 @@
 0.0.0.0     (\.|^)dexerto\.com$
 0.0.0.0     (\.|^)rankedboost\.com$
 0.0.0.0     (\.|^)tumblr\.com$
-0.0.0.0     (\.|^)discord\.com$
 0.0.0.0     (\.|^)disneyplus\.com$
 0.0.0.0     (\.|^)intercom\.io$
 0.0.0.0     (\.|^)intercomcdn\.com$
@@ -222,14 +241,10 @@
 0.0.0.0     car.klslhjjb.racing
 0.0.0.0     www.da-files.com
 0.0.0.0     (\.|^)watchanimeattheoffice\.com$
-0.0.0.0     (\.|^)discord\.co$
 0.0.0.0     (\.|^)bigbeans\.solutions$
 0.0.0.0     (\.|^)headway-widget\.net$
 0.0.0.0     (\.|^)seekpng\.com$
 0.0.0.0     (\.|^)vhv\.rs$
-0.0.0.0     status.discord.com
-0.0.0.0     latency.discord.media
-0.0.0.0     cdn.discordapp.com
 0.0.0.0     (\.|^)proko\.com$
 0.0.0.0     dragoart.com
 0.0.0.0     prweb.com
@@ -312,8 +327,6 @@
 0.0.0.0     (\.|^)dreamstime\.com$
 0.0.0.0     (\.|^)tiktok\.com$
 0.0.0.0     (\.|^)facebook\.net$
-0.0.0.0     images-ext-2.discordapp.net
-0.0.0.0     images-ext-1.discordapp.net
 0.0.0.0     (\.|^)cartn\.co$
 0.0.0.0     (\.|^)easymp3converter\.com$
 0.0.0.0     (\.|^)yt2api\.com$
@@ -559,7 +572,6 @@
 0.0.0.0     (\.|^)flipanim\.com$
 0.0.0.0     (\.|^)onrpg\.com$
 0.0.0.0     (\.|^)gemhut$
-0.0.0.0     (\.|^)discordstatus\.com$
 0.0.0.0     (\.|^)imgix\.com$
 0.0.0.0     (\.|^)air\.tv$
 0.0.0.0     (\.|^)kisscartoon\.org$
@@ -662,7 +674,6 @@
 0.0.0.0     (\.|^)ytjar\.xyz$
 0.0.0.0     (\.|^)realradiowilltotal\.live$
 0.0.0.0     (\.|^)morethoughcountryknow\.live$
-0.0.0.0     (\.|^)discord\.media$
 0.0.0.0     donjon.bin.sh
 0.0.0.0     pokemondb.net
 0.0.0.0     (\.|^)garticphone\.com$
@@ -743,7 +754,6 @@
 0.0.0.0     www.random-generator.org.uk
 0.0.0.0     idagrip.com
 0.0.0.0     www.kapwing.com
-0.0.0.0     media.discord.com
 0.0.0.0     findcatnames.com
 0.0.0.0     assets.findcatnames.com
 0.0.0.0     www.findcatnames.com
@@ -861,7 +871,6 @@
 0.0.0.0     shop.animaljam.com
 0.0.0.0     api.gameanalytics.com
 0.0.0.0     (\.|^)steam-dns\.top\.comcast\.net$
-0.0.0.0     www.discord.com
 0.0.0.0     use-application-dns.net
 0.0.0.0     (\.|^)use-application-dns\.net$
 0.0.0.0     doh.opendns.com
@@ -899,12 +908,9 @@
 0.0.0.0     log.prezi.com
 0.0.0.0     (\.|^)joelgc\.com$
 0.0.0.0     grammarly.io
-0.0.0.0     media.discordapp.net
 0.0.0.0     (\.|^)synapse\.to$
 0.0.0.0     (\.|^)synapsex\.co$
 0.0.0.0     (\.|^)modmenuz\.com$
-0.0.0.0     discord.com
-0.0.0.0     discordstatus.com
 #0.0.0.0     accountsettings.roblox.com
 #0.0.0.0     gameinternationalization.roblox.com
 #0.0.0.0     economy.roblox.com
