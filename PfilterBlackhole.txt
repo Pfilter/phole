@@ -17,8 +17,6 @@
 0.0.0.0     us-central4565.discord.media
 0.0.0.0     discord-attachments-uploads-prd.storage.googleapis.com
 0.0.0.0     gateway-us-east1-b.discord.gg
-0.0.0.0     images-ext-1.discordapp.net
-0.0.0.0     images-ext-2.discordapp.net
 0.0.0.0     creatures-of-sonaria-official.fandom.com
 0.0.0.0     (\.|^)discordstatus\.com$
 0.0.0.0     (\.|^)discord\.media$
@@ -40,10 +38,8 @@
 0.0.0.0     gravatar.com
 0.0.0.0     secure.gravatar.com
 0.0.0.0     www.gravatar.com
-0.0.0.0     creatures-of-sonaria-official.fandom.com
 0.0.0.0     dev.fandom.com
 0.0.0.0     vignette.wikia.nocookie.net
-0.0.0.0     creatures-of-sonaria-official.fandom.com
 0.0.0.0     script.wikia.nocookie.net
 0.0.0.0     launchpad-wrapper.privacymanager.io
 0.0.0.0     onetrust.com
@@ -163,7 +159,6 @@
 0.0.0.0     (\.|^)salesforceliveagent\.com$
 0.0.0.0     (\.|^)t\.co$
 0.0.0.0     (\.|^)streamspread\.com$
-0.0.0.0     (\.|^)t\.co$
 0.0.0.0     (\.|^)tik-tokapi\.com$
 0.0.0.0     (\.|^)firealpaca\.com$
 0.0.0.0     (\.|^)shoplightspeed\.com$
@@ -190,7 +185,6 @@
 0.0.0.0     (\.|^)carrd\.co$
 0.0.0.0     (\.|^)gaiaonline\.com$
 0.0.0.0     (\.|^)postimages\.org$
-0.0.0.0     (\.|^)postimg\.cc$
 0.0.0.0     (\.|^)photobucket\.com$
 0.0.0.0     (\.|^)gaiatools\.com$
 0.0.0.0     (\.|^)coil\.com$
@@ -203,7 +197,6 @@
 0.0.0.0     (\.|^)itch\.io$
 0.0.0.0     (\.|^)steamloopback\.host$
 0.0.0.0     (\.|^)chickensmoothie\.com$
-0.0.0.0     (\.|^)fandom\.com$
 0.0.0.0     (\.|^)nocookie\.net$
 0.0.0.0     (\.|^)wistia\.com$
 0.0.0.0     (\.|^)report-uri\.com$
@@ -211,7 +204,6 @@
 0.0.0.0     (\.|^)deviantart\.com$
 0.0.0.0     (\.|^)deviantart\.net$
 0.0.0.0     (\.|^)redditstatic\.com$
-0.0.0.0     (\.|^)ibb\.co$
 0.0.0.0     (\.|^)tinypic\.com$
 0.0.0.0     (\.|^)signavatar\.com$
 0.0.0.0     (\.|^)pitapata\.com$
@@ -338,7 +330,6 @@
 0.0.0.0     (\.|^)buhitter\.com$
 0.0.0.0     (\.|^)gramho\.com$
 0.0.0.0     (\.|^)universe\.charm$
-0.0.0.0     (\.|^)toyhou\.se$
 0.0.0.0     (\.|^)gamepedia\.com$
 0.0.0.0     (\.|^)dreamybows\.com$
 0.0.0.0     (\.|^)peachiieshop\.com$
@@ -976,16 +967,13 @@
 0.0.0.0     (\.|^)ventrilio\.com$
 0.0.0.0     (\.|^)viber\.com$
 0.0.0.0     (\.|^)crazyegg\.com$
-0.0.0.0     (\.|^)wolvden\.com$
 0.0.0.0     (\.|^)lioden\.com$
 0.0.0.0     (\.|^)toyhou\.se$
 0.0.0.0     (\.|^)fandom\.com$
-0.0.0.0     (\.|^)randimg\.net$
 0.0.0.0     (\.|^)postimg\.cc$
 0.0.0.0     (\.|^)ibb\.co$
 0.0.0.0     (\.|^)lioden\.wiki$
 0.0.0.0     (\.|^)tawk\.to$
-0.0.0.0     (\.|^)fandom\.com$
 0.0.0.0     (\.|^)narrativ\.com$
 0.0.0.0     (\.|^)feral-heart\.com$
 0.0.0.0     (^|\.)mixpanel\.com$
