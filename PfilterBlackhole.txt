@@ -765,7 +765,6 @@
 0.0.0.0     community.checkpoint.com
 0.0.0.0     (\.|^)rythm\.fm$
 0.0.0.0     teams.events.data.microsoft.com
-0.0.0.0     (\.|^)youtube-nocookie\.com$
 0.0.0.0     (\.|^)footprintdns\.com$
 0.0.0.0     (\.|^)adingo\.jp$
 0.0.0.0     use-tor.adsrvr.org
