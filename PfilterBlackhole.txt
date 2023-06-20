@@ -19,14 +19,20 @@
 0.0.0.0     discord-attachments-uploads-prd.storage.googleapis.com
 0.0.0.0     gateway-us-east1-b.discord.gg
 0.0.0.0     gateway-us-east1-c.discord.gg
+#     Block ActivTrak
+0.0.0.0     winagent.s3-external-1.amazonaws.com/
+0.0.0.0     agent-dl1.activtrak.net
+0.0.0.0     prod-cart-gcp-us.activtrak.net
+0.0.0.0     backend-master.activtrak.net
+0.0.0.0     backend.activtrak.net
+0.0.0.0     backend-gcp-us.activtrak.net
+0.0.0.0     ws.activtrak.net
+0.0.0.0     prod-frontend-gcpv2-us.activtrak.com
+0.0.0.0     prod-reporting-us.activtrak.com
+0.0.0.0     backend-gcp-ca.activtrak.net
+0.0.0.0     ws-gcp-ca.activtrak.net
+#
 0.0.0.0     creatures-of-sonaria-official.fandom.com
-0.0.0.0     (\.|^)discordstatus\.com$
-0.0.0.0     (\.|^)discord\.media$
-0.0.0.0     (\.|^)discord\.gg$
-0.0.0.0     (\.|^)discordapp\.com$
-0.0.0.0     (\.|^)discordapp\.net$
-0.0.0.0     (\.|^)discord\.com$
-0.0.0.0     (\.|^)discord\.co$
 0.0.0.0     geo.privacymanager.io
 0.0.0.0     ats-wrapper.privacymanager.io
 0.0.0.0     untoldtales.proboards.com
