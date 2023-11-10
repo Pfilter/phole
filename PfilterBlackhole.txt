@@ -56,7 +56,6 @@
 0.0.0.0     i.sdcn.co
 0.0.0.0     drphil.com
 0.0.0.0     static.boredpanda.com
-0.0.0.0     audio-ake.spotify.com.edgesuite.net
 0.0.0.0     bam.nr-data.net
 0.0.0.0     femetrics.grammarly.io
 0.0.0.0     treatment.grammarly.com
@@ -73,7 +72,6 @@
 0.0.0.0     i0.wp.com
 0.0.0.0     wordpress.com
 0.0.0.0     up-skill.me
-0.0.0.0     www.spotify.com
 0.0.0.0     kik.localdomain
 0.0.0.0     xf.gdprvalidate.de
 0.0.0.0     www.technobuffalo.com
@@ -89,7 +87,6 @@
 0.0.0.0     akamai.steamstatic.com
 0.0.0.0     destinationtoast.tumblr.com
 0.0.0.0     vip.socio-corp.jp
-0.0.0.0     heads4-ak-spotify-com.akamaized.net
 0.0.0.0     license.piriform.com
 0.0.0.0     mysticalmeadows.co.uk
 0.0.0.0     ozy.com
@@ -129,7 +126,6 @@
 0.0.0.0     www.oculus.com
 0.0.0.0     dns11.quad9.net
 0.0.0.0     dns.google
-0.0.0.0     open.spotify.com
 0.0.0.0     surfingtheseagard.files.wordpress.com
 0.0.0.0     www.kindpng.com
 0.0.0.0     img1.pnghut.com
@@ -228,8 +224,6 @@
 0.0.0.0     stimtavy.net
 0.0.0.0     www.stimtavy.net
 0.0.0.0     settings.data.microsoft.com
-0.0.0.0     dealer.spotify.com
-0.0.0.0     api.spotify.com
 0.0.0.0     glitch.me
 0.0.0.0     glitch.com
 0.0.0.0     graph.facebook.com
@@ -446,7 +440,6 @@
 #0.0.0.0     users.roblox.com
 #0.0.0.0     friends.roblox.com
 0.0.0.0     privatemessages.roblox.com
-0.0.0.0     open.spotifycdn.com
 0.0.0.0     files.pumble.com
 0.0.0.0     androidpay-users-pa.googleapis.com
 0.0.0.0     lh3.googleusercontent.com
@@ -459,7 +452,6 @@
 0.0.0.0     fractal-nft.imgix.net
 0.0.0.0     m.stripe.com
 0.0.0.0     cdns.gigya.com
-0.0.0.0     audio-ak-spotify-com.akamaized.net
 0.0.0.0     scribe.logs.roku.com
 0.0.0.0     cooper.logs.roku.com
 0.0.0.0     raps.ravm.tv
