@@ -457,3 +457,15 @@
 0.0.0.0     scribe.logs.roku.com
 0.0.0.0     cooper.logs.roku.com
 0.0.0.0     raps.ravm.tv
+0.0.0.0     www.quotev.com
+0.0.0.0     www.weasyl.com
+0.0.0.0     cdn.weasyl.com
+0.0.0.0     lookaside.instagram.com
+0.0.0.0     chickensmoothie.com
+0.0.0.0     www.chickensmoothie.com
+0.0.0.0     www.toyhou.se
+0.0.0.0     f2.toyhou.se
+0.0.0.0     www.chickensmoothie.com
+0.0.0.0     spotify.demdex.net
+0.0.0.0     t.furaffinity.net
+
