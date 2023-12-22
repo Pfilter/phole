@@ -468,4 +468,5 @@
 0.0.0.0     www.chickensmoothie.com
 0.0.0.0     spotify.demdex.net
 0.0.0.0     t.furaffinity.net
+0.0.0.0     www.chickensmoothie.com
 
