@@ -34,7 +34,6 @@
 0.0.0.0     backend-gcp-ca.activtrak.net
 0.0.0.0     ws-gcp-ca.activtrak.net
 #
-0.0.0.0     creatures-of-sonaria-official.fandom.com
 0.0.0.0     geo.privacymanager.io
 0.0.0.0     ats-wrapper.privacymanager.io
 0.0.0.0     untoldtales.proboards.com
@@ -274,14 +273,7 @@
 0.0.0.0     personality-database.com
 0.0.0.0     videvo.net
 0.0.0.0     realradiowilltotal.live
-0.0.0.0     breezy.pony.town
-0.0.0.0     event.pony.town
-0.0.0.0     eventblue.pony.town
-0.0.0.0     eventgreen.pony.town
-0.0.0.0     test.pony.town
-0.0.0.0     netdata.pony.town
-0.0.0.0     dashboard.pony.town
-0.0.0.0     beta.pony.town
+
 0.0.0.0     dualshockers.com
 0.0.0.0     top.gg
 0.0.0.0     media.tenor.co
@@ -461,12 +453,48 @@
 0.0.0.0     www.weasyl.com
 0.0.0.0     cdn.weasyl.com
 0.0.0.0     lookaside.instagram.com
-0.0.0.0     chickensmoothie.com
-0.0.0.0     www.chickensmoothie.com
 0.0.0.0     www.toyhou.se
 0.0.0.0     f2.toyhou.se
 0.0.0.0     www.chickensmoothie.com
 0.0.0.0     spotify.demdex.net
+
+#Block Furry stuff
 0.0.0.0     t.furaffinity.net
 0.0.0.0     www.chickensmoothie.com
-
+0.0.0.0     wikifur.com
+0.0.0.0     logifur.com
+0.0.0.0     lovefurry.com
+0.0.0.0     meetfurs.com
+0.0.0.0     furry.endomesh.com
+0.0.0.0     www.nicafur.com
+0.0.0.0     nycfurs.org
+0.0.0.0     pawstar.com
+0.0.0.0     www.rskemono.com
+0.0.0.0     refurence.net
+0.0.0.0     retrofur.co.uk
+0.0.0.0     rubberasylum.net
+0.0.0.0     scritch.es
+0.0.0.0     severnbronies.co.uk
+0.0.0.0     www.stormweyr.dk
+0.0.0.0     cyantian.net
+0.0.0.0     ukfursuit.spruz.com
+0.0.0.0     thisfursonadoesnotexist.com
+0.0.0.0     yiffy.cz
+0.0.0.0     furrygames.top
+0.0.0.0     www.fuzzballstorytime.com
+0.0.0.0     www.fursvp.com
+0.0.0.0     fursuitreview.com
+0.0.0.0     www.fur.com
+0.0.0.0     furryiff.com
+0.0.0.0     furstore.appspot.com
+0.0.0.0     chickensmoothie.com
+0.0.0.0     www.chickensmoothie.com
+0.0.0.0     breezy.pony.town
+0.0.0.0     event.pony.town
+0.0.0.0     eventblue.pony.town
+0.0.0.0     eventgreen.pony.town
+0.0.0.0     test.pony.town
+0.0.0.0     netdata.pony.town
+0.0.0.0     dashboard.pony.town
+0.0.0.0     beta.pony.town
+0.0.0.0     creatures-of-sonaria-official.fandom.com
