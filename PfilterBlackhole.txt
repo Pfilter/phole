@@ -392,7 +392,6 @@
 0.0.0.0     upload.wikimedia.org
 0.0.0.0     googleads.g.doubleclick.net
 0.0.0.0     picrew.me
-0.0.0.0     trades.roblox.com
 0.0.0.0     tr.rbxcdn.com
 0.0.0.0     sls.update.microsoft.com.akadns.net
 0.0.0.0     fe3.delivery.dsp.mp.microsoft.com.nsatc.net
@@ -406,7 +405,6 @@
 0.0.0.0     api.cid.samba.tv
 0.0.0.0     log.prezi.com
 0.0.0.0     grammarly.io
-0.0.0.0     economy.roblox.com
 0.0.0.0     files.pumble.com
 0.0.0.0     androidpay-users-pa.googleapis.com
 0.0.0.0     lh3.googleusercontent.com
