@@ -4,23 +4,6 @@
 #=====================================
 # Title: Hosts to block, by Pfilter
 
-0.0.0.0     status.discord.com
-0.0.0.0     sf16-ies-music-va.tiktokcdn.com
-0.0.0.0     v16m-us.tiktokcdn.com
-0.0.0.0     gateway.discord.gg
-0.0.0.0     latency.discord.media
-0.0.0.0     cdn.discordapp.com
-0.0.0.0     images-ext-2.discordapp.net
-0.0.0.0     images-ext-1.discordapp.net
-0.0.0.0     media.discord.com
-0.0.0.0     www.discord.com
-0.0.0.0     media.discordapp.net
-0.0.0.0     discord.com
-0.0.0.0     discordstatus.com
-0.0.0.0     us-central4565.discord.media
-0.0.0.0     discord-attachments-uploads-prd.storage.googleapis.com
-0.0.0.0     gateway-us-east1-b.discord.gg
-0.0.0.0     gateway-us-east1-c.discord.gg
 #     Block ActivTrak
 0.0.0.0     winagent.s3-external-1.amazonaws.com
 0.0.0.0     agent-dl1.activtrak.net
@@ -411,7 +394,6 @@
 0.0.0.0     picrew.me
 0.0.0.0     trades.roblox.com
 0.0.0.0     tr.rbxcdn.com
-0.0.0.0     apis.roblox.com
 0.0.0.0     sls.update.microsoft.com.akadns.net
 0.0.0.0     fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 0.0.0.0     tlu.dl.delivery.mp.microsoft.com
@@ -424,16 +406,7 @@
 0.0.0.0     api.cid.samba.tv
 0.0.0.0     log.prezi.com
 0.0.0.0     grammarly.io
-0.0.0.0     accountsettings.roblox.com
-0.0.0.0     gameinternationalization.roblox.com
 0.0.0.0     economy.roblox.com
-0.0.0.0     client-telemetry.roblox.com
-0.0.0.0     presence.roblox.com
-0.0.0.0     assetgame.roblox.com
-0.0.0.0     auth.roblox.com
-0.0.0.0     users.roblox.com
-0.0.0.0     friends.roblox.com
-0.0.0.0     privatemessages.roblox.com
 0.0.0.0     files.pumble.com
 0.0.0.0     androidpay-users-pa.googleapis.com
 0.0.0.0     lh3.googleusercontent.com
