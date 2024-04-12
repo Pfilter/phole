@@ -496,3 +496,4 @@
 0.0.0.0     users.roblox.com
 0.0.0.0     friends.roblox.com
 0.0.0.0     privatemessages.roblox.com
+0.0.0.0     pangle.io
