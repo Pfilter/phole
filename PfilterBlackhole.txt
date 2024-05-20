@@ -497,3 +497,4 @@
 0.0.0.0     friends.roblox.com
 0.0.0.0     privatemessages.roblox.com
 0.0.0.0     pangle.io
+127.0.0.1   repository.su
