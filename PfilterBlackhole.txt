@@ -4,6 +4,58 @@
 #=====================================
 # Title: Hosts to block, by Pfilter
 
+#Block Free ProtonVPN
+0.0.0.0     us-free-01.protonvpn.net
+0.0.0.0     us-free-02.protonvpn.net
+0.0.0.0     us-free-03.protonvpn.net
+0.0.0.0     us-free-04.protonvpn.net
+0.0.0.0     us-free-05.protonvpn.net
+0.0.0.0     us-free-06.protonvpn.net
+0.0.0.0     us-free-07.protonvpn.net
+0.0.0.0     us-free-08.protonvpn.net
+0.0.0.0     us-free-09.protonvpn.net
+0.0.0.0     us-free-10.protonvpn.net
+0.0.0.0     us-free-11.protonvpn.net
+0.0.0.0     us-free-12.protonvpn.net
+0.0.0.0     us-free-13.protonvpn.net
+0.0.0.0     us-free-14.protonvpn.net
+0.0.0.0     us-free-15.protonvpn.net
+0.0.0.0     us-free-16.protonvpn.net
+0.0.0.0     us-free-17.protonvpn.net
+0.0.0.0     us-free-18.protonvpn.net
+0.0.0.0     us-free-19.protonvpn.net
+0.0.0.0     us-free-20.protonvpn.net
+0.0.0.0     us-free-21.protonvpn.net
+0.0.0.0     us-free-22.protonvpn.net
+0.0.0.0     us-free-23.protonvpn.net
+0.0.0.0     us-free-24.protonvpn.net
+0.0.0.0     us-free-25.protonvpn.net
+0.0.0.0     us-free-26.protonvpn.net
+0.0.0.0     us-free-27.protonvpn.net
+0.0.0.0     us-free-28.protonvpn.net
+0.0.0.0     us-free-29.protonvpn.net
+0.0.0.0     us-free-30.protonvpn.net
+0.0.0.0     us-free-31.protonvpn.net
+0.0.0.0     us-free-32.protonvpn.net
+0.0.0.0     us-free-33.protonvpn.net
+0.0.0.0     us-free-34.protonvpn.net
+0.0.0.0     us-free-35.protonvpn.net
+0.0.0.0     us-free-36.protonvpn.net
+0.0.0.0     us-free-37.protonvpn.net
+0.0.0.0     us-free-38.protonvpn.net
+0.0.0.0     us-free-39.protonvpn.net
+0.0.0.0     us-free-40.protonvpn.net
+0.0.0.0     us-free-41.protonvpn.net
+0.0.0.0     us-free-42.protonvpn.net
+0.0.0.0     us-free-43.protonvpn.net
+0.0.0.0     us-free-44.protonvpn.net
+0.0.0.0     us-free-45.protonvpn.net
+0.0.0.0     us-free-46.protonvpn.net
+0.0.0.0     us-free-47.protonvpn.net
+0.0.0.0     us-free-48.protonvpn.net
+0.0.0.0     us-free-49.protonvpn.net
+0.0.0.0     us-free-50.protonvpn.net
+
 #     Block ActivTrak
 0.0.0.0     winagent.s3-external-1.amazonaws.com
 0.0.0.0     agent-dl1.activtrak.net
