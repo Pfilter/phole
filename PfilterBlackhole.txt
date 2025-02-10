@@ -5,548 +5,583 @@
 # Title: Hosts to block, by Pfilter
 
 #Block Free ProtonVPN
-0.0.0.0     us-free-01.protonvpn.net
-0.0.0.0     us-free-02.protonvpn.net
-0.0.0.0     us-free-03.protonvpn.net
-0.0.0.0     us-free-04.protonvpn.net
-0.0.0.0     us-free-05.protonvpn.net
-0.0.0.0     us-free-06.protonvpn.net
-0.0.0.0     us-free-07.protonvpn.net
-0.0.0.0     us-free-08.protonvpn.net
-0.0.0.0     us-free-09.protonvpn.net
-0.0.0.0     us-free-10.protonvpn.net
-0.0.0.0     us-free-11.protonvpn.net
-0.0.0.0     us-free-12.protonvpn.net
-0.0.0.0     us-free-13.protonvpn.net
-0.0.0.0     us-free-14.protonvpn.net
-0.0.0.0     us-free-15.protonvpn.net
-0.0.0.0     us-free-16.protonvpn.net
-0.0.0.0     us-free-17.protonvpn.net
-0.0.0.0     us-free-18.protonvpn.net
-0.0.0.0     us-free-19.protonvpn.net
-0.0.0.0     us-free-20.protonvpn.net
-0.0.0.0     us-free-21.protonvpn.net
-0.0.0.0     us-free-22.protonvpn.net
-0.0.0.0     us-free-23.protonvpn.net
-0.0.0.0     us-free-24.protonvpn.net
-0.0.0.0     us-free-25.protonvpn.net
-0.0.0.0     us-free-26.protonvpn.net
-0.0.0.0     us-free-27.protonvpn.net
-0.0.0.0     us-free-28.protonvpn.net
-0.0.0.0     us-free-29.protonvpn.net
-0.0.0.0     us-free-30.protonvpn.net
-0.0.0.0     us-free-31.protonvpn.net
-0.0.0.0     us-free-32.protonvpn.net
-0.0.0.0     us-free-33.protonvpn.net
-0.0.0.0     us-free-34.protonvpn.net
-0.0.0.0     us-free-35.protonvpn.net
-0.0.0.0     us-free-36.protonvpn.net
-0.0.0.0     us-free-37.protonvpn.net
-0.0.0.0     us-free-38.protonvpn.net
-0.0.0.0     us-free-39.protonvpn.net
-0.0.0.0     us-free-40.protonvpn.net
-0.0.0.0     us-free-41.protonvpn.net
-0.0.0.0     us-free-42.protonvpn.net
-0.0.0.0     us-free-43.protonvpn.net
-0.0.0.0     us-free-44.protonvpn.net
-0.0.0.0     us-free-45.protonvpn.net
-0.0.0.0     us-free-46.protonvpn.net
-0.0.0.0     us-free-47.protonvpn.net
-0.0.0.0     us-free-48.protonvpn.net
-0.0.0.0     us-free-49.protonvpn.net
-0.0.0.0     us-free-50.protonvpn.net
+us-free-01.protonvpn.net
+us-free-02.protonvpn.net
+us-free-03.protonvpn.net
+us-free-04.protonvpn.net
+us-free-05.protonvpn.net
+us-free-06.protonvpn.net
+us-free-07.protonvpn.net
+us-free-08.protonvpn.net
+us-free-09.protonvpn.net
+us-free-10.protonvpn.net
+us-free-11.protonvpn.net
+us-free-12.protonvpn.net
+us-free-13.protonvpn.net
+us-free-14.protonvpn.net
+us-free-15.protonvpn.net
+us-free-16.protonvpn.net
+us-free-17.protonvpn.net
+us-free-18.protonvpn.net
+us-free-19.protonvpn.net
+us-free-20.protonvpn.net
+us-free-21.protonvpn.net
+us-free-22.protonvpn.net
+us-free-23.protonvpn.net
+us-free-24.protonvpn.net
+us-free-25.protonvpn.net
+us-free-26.protonvpn.net
+us-free-27.protonvpn.net
+us-free-28.protonvpn.net
+us-free-29.protonvpn.net
+us-free-30.protonvpn.net
+us-free-31.protonvpn.net
+us-free-32.protonvpn.net
+us-free-33.protonvpn.net
+us-free-34.protonvpn.net
+us-free-35.protonvpn.net
+us-free-36.protonvpn.net
+us-free-37.protonvpn.net
+us-free-38.protonvpn.net
+us-free-39.protonvpn.net
+us-free-40.protonvpn.net
+us-free-41.protonvpn.net
+us-free-42.protonvpn.net
+us-free-43.protonvpn.net
+us-free-44.protonvpn.net
+us-free-45.protonvpn.net
+us-free-46.protonvpn.net
+us-free-47.protonvpn.net
+us-free-48.protonvpn.net
+us-free-49.protonvpn.net
+us-free-50.protonvpn.net
 
 #     Block ActivTrak
-0.0.0.0     winagent.s3-external-1.amazonaws.com
-0.0.0.0     agent-dl1.activtrak.net
-0.0.0.0     prod-cart-gcp-us.activtrak.net
-0.0.0.0     backend-master.activtrak.net
-0.0.0.0     backend.activtrak.net
-0.0.0.0     backend-gcp-us.activtrak.net
-0.0.0.0     ws.activtrak.net
-0.0.0.0     prod-frontend-gcpv2-us.activtrak.com
-0.0.0.0     prod-reporting-us.activtrak.com
-0.0.0.0     backend-gcp-ca.activtrak.net
-0.0.0.0     ws-gcp-ca.activtrak.net
+winagent.s3-external-1.amazonaws.com
+agent-dl1.activtrak.net
+prod-cart-gcp-us.activtrak.net
+backend-master.activtrak.net
+backend.activtrak.net
+backend-gcp-us.activtrak.net
+ws.activtrak.net
+prod-frontend-gcpv2-us.activtrak.com
+prod-reporting-us.activtrak.com
+backend-gcp-ca.activtrak.net
+ws-gcp-ca.activtrak.net
 #
-0.0.0.0     geo.privacymanager.io
-0.0.0.0     ats-wrapper.privacymanager.io
-0.0.0.0     untoldtales.proboards.com
-0.0.0.0     apawineachworld.com
-0.0.0.0     feral-heart.com
-0.0.0.0     giga.logs.roku.com
-0.0.0.0     wpad.localdomain
-0.0.0.0     detectportal.firefox.com
-0.0.0.0     watch.product.api.espn.com
-0.0.0.0     en.gravatar.com
-0.0.0.0     gravatar.com
-0.0.0.0     secure.gravatar.com
-0.0.0.0     www.gravatar.com
-0.0.0.0     dev.fandom.com
-0.0.0.0     vignette.wikia.nocookie.net
-0.0.0.0     script.wikia.nocookie.net
-0.0.0.0     launchpad-wrapper.privacymanager.io
-0.0.0.0     onetrust.com
-0.0.0.0     analytics-device-api.lightspeedsystems.com
-0.0.0.0     root.s-i-z.com
-0.0.0.0     i.sdcn.co
-0.0.0.0     drphil.com
-0.0.0.0     static.boredpanda.com
-0.0.0.0     bam.nr-data.net
-0.0.0.0     femetrics.grammarly.io
-0.0.0.0     treatment.grammarly.com
-0.0.0.0     ps15.pndsn.com
-0.0.0.0     emupdate.avcdn.net
-0.0.0.0     sv.symcb.com
-0.0.0.0     s1.symcb.com
-0.0.0.0     play.vidyard.com
-0.0.0.0     prod-scout-reg.rootsoc.com
-0.0.0.0     server.agent-cluster3.prod.us001-prod.arcticwolf.net
-0.0.0.0     manage.agent-cluster3.prod.us001-prod.arcticwolf.net
-0.0.0.0     ekr.zdassets.com
-0.0.0.0     c0.wp.com
-0.0.0.0     i0.wp.com
-0.0.0.0     wordpress.com
-0.0.0.0     up-skill.me
-0.0.0.0     kik.localdomain
-0.0.0.0     xf.gdprvalidate.de
-0.0.0.0     www.technobuffalo.com
-0.0.0.0     www.windowscentral.com
-0.0.0.0     www.mobilenations.com
-0.0.0.0     mozilla.cloudflare-dns.com
-0.0.0.0     quotev.com
-0.0.0.0     www.pngkit.com
-0.0.0.0     kawaiiface.net
-0.0.0.0     stardewvalleywiki.com
-0.0.0.0     go.prisonhandbook.com
-0.0.0.0     cloudflare.steamstatic.com
-0.0.0.0     akamai.steamstatic.com
-0.0.0.0     destinationtoast.tumblr.com
-0.0.0.0     vip.socio-corp.jp
-0.0.0.0     license.piriform.com
-0.0.0.0     mysticalmeadows.co.uk
-0.0.0.0     ozy.com
-0.0.0.0     starsoffline.com
-0.0.0.0     virtualpiano.net
-0.0.0.0     www.serebii.net
-0.0.0.0     cdninstagram.com
-0.0.0.0     www.transformice.com
-0.0.0.0     car.klslhjjb.racing
-0.0.0.0     www.da-files.com
-0.0.0.0     www.name-generator.org.uk
-0.0.0.0     dragoart.com
-0.0.0.0     prweb.com
-0.0.0.0     annamystory.com
-0.0.0.0     patreonusercontent.com
-0.0.0.0     verywellhealth.com
-0.0.0.0     iamag.co
-0.0.0.0     digitalartsonline.co.uk
-0.0.0.0     en.meming.world
-0.0.0.0     gishan.cc
-0.0.0.0     s.mzstatic.com
-0.0.0.0     browser.sentry-cdn.com
-0.0.0.0     static.parastorage.com
-0.0.0.0     toppng.com
-0.0.0.0     warriorcatsrpforum.freeforums.net
-0.0.0.0     disneynow.com
-0.0.0.0     hazbinhotel.com
-0.0.0.0     rainy.s-ul.eu
-0.0.0.0     www.clipartkey.com
-0.0.0.0     e7.pngegg.com
-0.0.0.0     dns.nextdns.io
-0.0.0.0     p7.hiclipart.com
-0.0.0.0     animatedheroes.com
-0.0.0.0     www.mugglenet.com
-0.0.0.0     e2561.b.akamaiedge.net
-0.0.0.0     filters.adtidy.org
-0.0.0.0     www.oculus.com
-0.0.0.0     dns11.quad9.net
-0.0.0.0     dns.google
-0.0.0.0     surfingtheseagard.files.wordpress.com
-0.0.0.0     www.kindpng.com
-0.0.0.0     img1.pnghut.com
-0.0.0.0     www.vippng.com
-0.0.0.0     w7.pngwing.com
-0.0.0.0     api.itubego.com
-0.0.0.0     itubeandroid.com
-0.0.0.0     www.softwaretestinghelp.com
-0.0.0.0     itubego.com
-0.0.0.0     www.4kdownload.com
-0.0.0.0     vloggergear.com
-0.0.0.0     www.converto.io
-0.0.0.0     y2mate.com
-0.0.0.0     ontiva.com
-0.0.0.0     www.videoproc.com
-0.0.0.0     www.5kplayer.com
-0.0.0.0     asg.animatedheroes.com.localdomain
-0.0.0.0     animatedheroes.com.localdomain
-0.0.0.0     www.oreo.com
-0.0.0.0     cdn.costumewall.com
-0.0.0.0     api.mp3from.com
-0.0.0.0     www.apowersoft.com
-0.0.0.0     arnold.ytapivmp3.com
-0.0.0.0     future-fie.co.uk
-0.0.0.0     ytmp3.cc
-0.0.0.0     thewhisp.mommyish.com
-0.0.0.0     www.mycelebrityandi.com
-0.0.0.0     www.videogamesblogger.com
-0.0.0.0     thumbs.videogamer.com
-0.0.0.0     ps4ws2.savewizard.net
-0.0.0.0     ps4ws.savewizard.net
-0.0.0.0     shimejis.xyz
-0.0.0.0     runesfurryblog.files.wordpress.com
-0.0.0.0     runesfurryblog.wordpress.com
-0.0.0.0     surfingtheseagard.wordpress.com
-0.0.0.0     www.budsies.com
-0.0.0.0     cdn-usent.kampyle.com
-0.0.0.0     nebula-cdn.kampyle.com
-0.0.0.0     target.scene7.com
-0.0.0.0     abighauntedhouse.files.wordpress.com
-0.0.0.0     crystal.cafe
-0.0.0.0     www.themebeta.com
-0.0.0.0     aesthetic.clueforlife.com
-0.0.0.0     traumacore.xn--qg8hix.ws
-0.0.0.0     www.missangestgames.com
-0.0.0.0     www.azaleasdolls.com
-0.0.0.0     artsqool.cool
-0.0.0.0     manequest.net
-0.0.0.0     oneclient.sfx.ms
-0.0.0.0     updowntoday.com
-0.0.0.0     www.championsofequestria.town
-0.0.0.0     championsofequestria.town
-0.0.0.0     www.nitter.net
-0.0.0.0     nitter.net
-0.0.0.0     nitter.secretcommittee.com
-0.0.0.0     nitter.net.secretcommittee.com
-0.0.0.0     invidio.us
-0.0.0.0     two-doves-of-a-feather.tumblr.com
-0.0.0.0     arkoselabs.com
-0.0.0.0     tophatter.com
-0.0.0.0     www.tophatter.com
-0.0.0.0     fjcdn.com
-0.0.0.0     www.8tracks.com
-0.0.0.0     8tracks.com
-0.0.0.0     www.mnfurs.org
-0.0.0.0     mnfurs.org
-0.0.0.0     image.mnfurs.org
-0.0.0.0     www.austinfurs.com
-0.0.0.0     austinfurs.com
-0.0.0.0     wheeldecide.com
-0.0.0.0     use.fontawesome.com
-0.0.0.0     wheelofnames.com
-0.0.0.0     imgix.ranker.com
-0.0.0.0     www.bestrandoms.com
-0.0.0.0     pro.imdb.com
-0.0.0.0     www.6pm.com
-0.0.0.0     www.acx.com
-0.0.0.0     www.boxofficemojo.com
-0.0.0.0     www.bookdepository.com
-0.0.0.0     www.fabric.com
-0.0.0.0     www.shopbop.com
-0.0.0.0     cdn.lr-ingest.io
-0.0.0.0     thefandomentals.com
-0.0.0.0     form.typeform.com
-0.0.0.0     www.thegamer.com
-0.0.0.0     www.equestriadaily.com
-0.0.0.0     www.geteasysolution.com
-0.0.0.0     www.coursehero.com
-0.0.0.0     dns.quad9.net
-0.0.0.0     www.furaffinity.net
-0.0.0.0     download.mp3surf.icu
-0.0.0.0     www.mp3surf.icu
-0.0.0.0     mp3surf.icu
-0.0.0.0     yt1s.com
-0.0.0.0     www.yt1s.com
-0.0.0.0     stimtavy.net
-0.0.0.0     www.stimtavy.net
-0.0.0.0     settings.data.microsoft.com
-0.0.0.0     glitch.me
-0.0.0.0     glitch.com
-0.0.0.0     graph.facebook.com
-0.0.0.0     accounts.us1.gigya.com
-0.0.0.0     cdn.arkoselabs.com
-0.0.0.0     colorbarsmerch.com
-0.0.0.0     thisfursonadoesnotexist.com
-0.0.0.0     topcaptchasolver.com
-0.0.0.0     hotelfroma.fun
-0.0.0.0     one.mansueto.com
-0.0.0.0     www.queryly.com
-0.0.0.0     electricbento.com
-0.0.0.0     elegantthemes.com
-0.0.0.0     www.bloglovin.com
-0.0.0.0     cdn.ko-fi.com
-0.0.0.0     atsuzaki-playground.neocities.org
-0.0.0.0     earfoonsuomi.fi
-0.0.0.0     getvideo.watch
-0.0.0.0     lakur.bazy-bazy.ru
-0.0.0.0     warden.arc.io
-0.0.0.0     www.cme-pro.com
-0.0.0.0     cdn.plyr.io
-0.0.0.0     www.edityouraudio.com
-0.0.0.0     karrinyarra-artists.com
-0.0.0.0     www.facebook.com
-0.0.0.0     telepathicmusic.net
-0.0.0.0     soundtravels.expedia.mx
-0.0.0.0     mp3cdnd.ytjar.xyz
-0.0.0.0     centindicator.com
-0.0.0.0     best-hashtags.net
-0.0.0.0     lagu.downloadsclub.com
-0.0.0.0     music.downloadsclub.com
-0.0.0.0     www.joox.com
-0.0.0.0     web-retrace.wynk.in
-0.0.0.0     usercontent.wynk.in
-0.0.0.0     login.wynk.in
-0.0.0.0     ping.wynk.in
-0.0.0.0     layout.wynk.in
-0.0.0.0     stream.wynk.in
-0.0.0.0     yt-mp3converter.com
-0.0.0.0     caramelldansen.mp3juices.red
-0.0.0.0     donjon.bin.sh
-0.0.0.0     pokemondb.net
-0.0.0.0     serebii.net
-0.0.0.0     anisearch.com
-0.0.0.0     personality-database.com
-0.0.0.0     videvo.net
-0.0.0.0     realradiowilltotal.live
-0.0.0.0     dualshockers.com
-0.0.0.0     top.gg
-0.0.0.0     media.tenor.co
-0.0.0.0     watson.telemetry.microsoft.com
-0.0.0.0     www.scottgames.com
-0.0.0.0     scottgames.com
-0.0.0.0     www.behindthename.com
-0.0.0.0     codexnomina.com
-0.0.0.0     www.seventhsanctum.com
-0.0.0.0     www.character-generator.org.uk
-0.0.0.0     www.randomlists.com
-0.0.0.0     www.palcomp3.com.br
-0.0.0.0     movies.meetdownload.com
-0.0.0.0     torun.pl
-0.0.0.0     camppracticeliquidwrong.live
-0.0.0.0     www.letras.com
-0.0.0.0     myfreemp3music.com
-0.0.0.0     freemp3cloud.com
-0.0.0.0     lordsofgaming.net
-0.0.0.0     last.fm
-0.0.0.0     pelegit.co.il
-0.0.0.0     continuum.graphics
-0.0.0.0     thebreakdown.xyz
-0.0.0.0     download-soundtracks.com
-0.0.0.0     cravatar.eu
-0.0.0.0     www.badlion.net
-0.0.0.0     downloads.khinsider.com
-0.0.0.0     resourcepack.info
-0.0.0.0     gamebanana.com
-0.0.0.0     notifier.win-rar.com
-0.0.0.0     stpeterline.com
-0.0.0.0     curseforge.overwolf.com
-0.0.0.0     www.sportskeeda.com
-0.0.0.0     wallpaper.dog
-0.0.0.0     attackofthefanboy.com
-0.0.0.0     2b2t.org
-0.0.0.0     wynk.in
-0.0.0.0     psu.com
-0.0.0.0     mp1st.com
-0.0.0.0     diffuser.fm
-0.0.0.0     songmeanings.com
-0.0.0.0     www.random-generator.org.uk
-0.0.0.0     idagrip.com
-0.0.0.0     www.kapwing.com
-0.0.0.0     findcatnames.com
-0.0.0.0     assets.findcatnames.com
-0.0.0.0     www.findcatnames.com
-0.0.0.0     awn.com
-0.0.0.0     fer.al
-0.0.0.0     perchance.org
-0.0.0.0     grizly.com
-0.0.0.0     community.checkpoint.com
-0.0.0.0     teams.events.data.microsoft.com
-0.0.0.0     use-tor.adsrvr.org
-0.0.0.0     secure.adnxs.com
-0.0.0.0     cms.quantserve.com
-0.0.0.0     sync.mathtag.com
-0.0.0.0     protected-by.clarium.io
-0.0.0.0     ads.stickyadstv.com
-0.0.0.0     thrtle.com
-0.0.0.0     zeotap.com
-0.0.0.0     adscience.nl
-0.0.0.0     pixel.advertising.com
-0.0.0.0     sync.tidaltv.com
-0.0.0.0     px.owneriq.net
-0.0.0.0     casale-match.dotomi.com
-0.0.0.0     insight.adsrvr.org
-0.0.0.0     fw.adsafeprotected.com
-0.0.0.0     aax.amazon-adsystem.com
-0.0.0.0     edge-star-shv-01-ort2.facebook.com
-0.0.0.0     smetrics.aem.playstation.com
-0.0.0.0     static.adsafeprotected.com
-0.0.0.0     tidaltv.com
-0.0.0.0     track.adform.net
-0.0.0.0     px.moatads.com
-0.0.0.0     btlr.sharethrough.com
-0.0.0.0     ce.lijit.com
-0.0.0.0     rtb.adentifi.com
-0.0.0.0     sentry.io
-0.0.0.0     match.justpremium.com
-0.0.0.0     sync.hgrtb.com
-0.0.0.0     adfoc.us
-0.0.0.0     easylist-downloads.adblockplus.org
-0.0.0.0     p16-tiktokcdn-com.akamaized.net
-0.0.0.0     log.tiktokv.com
-0.0.0.0     ib.tiktokv.com
-0.0.0.0     api-h2.tiktokv.com
-0.0.0.0     v16m.tiktokcdn.com
-0.0.0.0     api.tiktokv.com
-0.0.0.0     v19.tiktokcdn.com
-0.0.0.0     mon.musical.ly
-0.0.0.0     api2-16-h2.musical.ly
-0.0.0.0     api2.musical.ly
-0.0.0.0     log2.musical.ly
-0.0.0.0     api2-21-h2.musical.ly
-0.0.0.0     pghub.io
-0.0.0.0     imtwjwoasak.com
-0.0.0.0     btloader.com
-0.0.0.0     eus.rubiconproject.com
-0.0.0.0     acdn.adnxs.com
-0.0.0.0     sync.outbrain.com
-0.0.0.0     pixel.quantserve.com
-0.0.0.0     b.ns1p.net
-0.0.0.0     analytics.tiktok.com
-0.0.0.0     www.secretofgirls.com
-0.0.0.0     demoniacult.com
-0.0.0.0     www.demoniacult.com
-0.0.0.0     www.demoniashoes.com
-0.0.0.0     demoniashoes.com
-0.0.0.0     demoniashoes.myshopify.com
-0.0.0.0     attn.tv
-0.0.0.0     pkg.covet.pics
-0.0.0.0     shopify.covet.pics
-0.0.0.0     s3static.cashstar.com
-0.0.0.0     roblox.cashstart.com
-0.0.0.0     furaffinity.net
-0.0.0.0     d.furaffinity.net
-0.0.0.0     c.aaxads.com
-0.0.0.0     shop.animaljam.com
-0.0.0.0     api.gameanalytics.com
-0.0.0.0     use-application-dns.net
-0.0.0.0     doh.opendns.com
-0.0.0.0     www.flightrising.com
-0.0.0.0     www1.flightrising.com
-0.0.0.0     api.onedrive.com
-0.0.0.0     cdn.onenote.net
-0.0.0.0     redd.it
-0.0.0.0     instachronicles.com
-0.0.0.0     spaethcom.com
-0.0.0.0     a1.api.bbc.co.uk
-0.0.0.0     cloudservices.roku.com
-0.0.0.0     cdn.bitmovin.com
-0.0.0.0     upload.wikimedia.org
-0.0.0.0     googleads.g.doubleclick.net
-0.0.0.0     picrew.me
-0.0.0.0     tr.rbxcdn.com
-0.0.0.0     sls.update.microsoft.com.akadns.net
-0.0.0.0     fe3.delivery.dsp.mp.microsoft.com.nsatc.net
-0.0.0.0     tlu.dl.delivery.mp.microsoft.com
-0.0.0.0     v.w-x.co
-0.0.0.0     telemetry-console.api.playstation.com
-0.0.0.0     souqcdn.com
-0.0.0.0     cms.souqcdn.com
-0.0.0.0     api.directory.signal.org
-0.0.0.0     turn1.whispersystems.org
-0.0.0.0     api.cid.samba.tv
-0.0.0.0     log.prezi.com
-0.0.0.0     grammarly.io
-0.0.0.0     files.pumble.com
-0.0.0.0     androidpay-users-pa.googleapis.com
-0.0.0.0     lh3.googleusercontent.com
-0.0.0.0     soa.smext.faa.gov
-0.0.0.0     api-ga.pumble.com
-0.0.0.0     www.fractal.is
-0.0.0.0     api.fractal.is
-0.0.0.0     api.flagsmith.com
-0.0.0.0     fractal-game.imgix.net
-0.0.0.0     fractal-nft.imgix.net
-0.0.0.0     m.stripe.com
-0.0.0.0     cdns.gigya.com
-0.0.0.0     scribe.logs.roku.com
-0.0.0.0     cooper.logs.roku.com
-0.0.0.0     raps.ravm.tv
-0.0.0.0     www.quotev.com
-0.0.0.0     www.weasyl.com
-0.0.0.0     cdn.weasyl.com
-0.0.0.0     lookaside.instagram.com
-0.0.0.0     www.toyhou.se
-0.0.0.0     f2.toyhou.se
-0.0.0.0     www.chickensmoothie.com
-0.0.0.0     spotify.demdex.net
+ad.360yield.com
+match.adsby.bidtheatre.com
+a.sportradarserving.com
+data.ad-score.com
+track1.avplayer.com
+avplayer.com
+ad.doubleclick.net
+ad-events.flashtalking.com
+googleads.g.doubleclick.net
+cs.lkqd.net
+eb2.3lift.com
+gum.criteo.com
+acdn.adnxs.com
+cs.seedtag.com
+s.ad.smaato.net
+data.adsrvr.org
+match.sharethrough.com
+aorta.clickagy.com
+sync.serverbid.com
+usersync.gumgum.com
+s.ad.smaato.net
+ssbsync.smartadserver.com
+ice.360yield.com
+csync.smartadserver.com
+visitor.omnitagjs.com
+sync.bfmio.com
+ads.us.e-planning.net
+gw-iad-bid.ymmobi.com
+sync.smartadserver.com
+seedtag.com
+s.seedtag.com
+cootlogix.com
+sync.cootlogix.com
+securepubads.g.doubleclick.net
+tracker.cbx-rtb.com
+geo.privacymanager.io
+ats-wrapper.privacymanager.io
+untoldtales.proboards.com
+apawineachworld.com
+feral-heart.com
+giga.logs.roku.com
+wpad.localdomain
+detectportal.firefox.com
+watch.product.api.espn.com
+en.gravatar.com
+gravatar.com
+secure.gravatar.com
+www.gravatar.com
+dev.fandom.com
+vignette.wikia.nocookie.net
+script.wikia.nocookie.net
+launchpad-wrapper.privacymanager.io
+onetrust.com
+analytics-device-api.lightspeedsystems.com
+root.s-i-z.com
+i.sdcn.co
+drphil.com
+static.boredpanda.com
+bam.nr-data.net
+femetrics.grammarly.io
+treatment.grammarly.com
+ps15.pndsn.com
+emupdate.avcdn.net
+sv.symcb.com
+s1.symcb.com
+play.vidyard.com
+prod-scout-reg.rootsoc.com
+server.agent-cluster3.prod.us001-prod.arcticwolf.net
+manage.agent-cluster3.prod.us001-prod.arcticwolf.net
+ekr.zdassets.com
+c0.wp.com
+i0.wp.com
+wordpress.com
+up-skill.me
+kik.localdomain
+xf.gdprvalidate.de
+www.technobuffalo.com
+www.windowscentral.com
+www.mobilenations.com
+mozilla.cloudflare-dns.com
+quotev.com
+www.pngkit.com
+kawaiiface.net
+stardewvalleywiki.com
+go.prisonhandbook.com
+cloudflare.steamstatic.com
+akamai.steamstatic.com
+destinationtoast.tumblr.com
+vip.socio-corp.jp
+license.piriform.com
+mysticalmeadows.co.uk
+ozy.com
+starsoffline.com
+virtualpiano.net
+www.serebii.net
+cdninstagram.com
+www.transformice.com
+car.klslhjjb.racing
+www.da-files.com
+www.name-generator.org.uk
+dragoart.com
+prweb.com
+annamystory.com
+patreonusercontent.com
+verywellhealth.com
+iamag.co
+digitalartsonline.co.uk
+en.meming.world
+gishan.cc
+s.mzstatic.com
+browser.sentry-cdn.com
+static.parastorage.com
+toppng.com
+warriorcatsrpforum.freeforums.net
+disneynow.com
+hazbinhotel.com
+rainy.s-ul.eu
+www.clipartkey.com
+e7.pngegg.com
+dns.nextdns.io
+p7.hiclipart.com
+animatedheroes.com
+www.mugglenet.com
+e2561.b.akamaiedge.net
+filters.adtidy.org
+www.oculus.com
+dns11.quad9.net
+dns.google
+surfingtheseagard.files.wordpress.com
+www.kindpng.com
+img1.pnghut.com
+www.vippng.com
+w7.pngwing.com
+api.itubego.com
+itubeandroid.com
+www.softwaretestinghelp.com
+itubego.com
+www.4kdownload.com
+vloggergear.com
+www.converto.io
+y2mate.com
+ontiva.com
+www.videoproc.com
+www.5kplayer.com
+asg.animatedheroes.com.localdomain
+animatedheroes.com.localdomain
+www.oreo.com
+cdn.costumewall.com
+api.mp3from.com
+www.apowersoft.com
+arnold.ytapivmp3.com
+future-fie.co.uk
+ytmp3.cc
+thewhisp.mommyish.com
+www.mycelebrityandi.com
+www.videogamesblogger.com
+thumbs.videogamer.com
+ps4ws2.savewizard.net
+ps4ws.savewizard.net
+shimejis.xyz
+runesfurryblog.files.wordpress.com
+runesfurryblog.wordpress.com
+surfingtheseagard.wordpress.com
+www.budsies.com
+cdn-usent.kampyle.com
+nebula-cdn.kampyle.com
+target.scene7.com
+abighauntedhouse.files.wordpress.com
+crystal.cafe
+www.themebeta.com
+aesthetic.clueforlife.com
+traumacore.xn--qg8hix.ws
+www.missangestgames.com
+www.azaleasdolls.com
+artsqool.cool
+manequest.net
+oneclient.sfx.ms
+updowntoday.com
+www.championsofequestria.town
+championsofequestria.town
+www.nitter.net
+nitter.net
+nitter.secretcommittee.com
+nitter.net.secretcommittee.com
+invidio.us
+two-doves-of-a-feather.tumblr.com
+arkoselabs.com
+tophatter.com
+www.tophatter.com
+fjcdn.com
+www.8tracks.com
+8tracks.com
+www.mnfurs.org
+mnfurs.org
+image.mnfurs.org
+www.austinfurs.com
+austinfurs.com
+wheeldecide.com
+use.fontawesome.com
+wheelofnames.com
+imgix.ranker.com
+www.bestrandoms.com
+pro.imdb.com
+www.6pm.com
+www.acx.com
+www.boxofficemojo.com
+www.bookdepository.com
+www.fabric.com
+www.shopbop.com
+cdn.lr-ingest.io
+thefandomentals.com
+form.typeform.com
+www.thegamer.com
+www.equestriadaily.com
+www.geteasysolution.com
+www.coursehero.com
+dns.quad9.net
+www.furaffinity.net
+download.mp3surf.icu
+www.mp3surf.icu
+mp3surf.icu
+yt1s.com
+www.yt1s.com
+stimtavy.net
+www.stimtavy.net
+settings.data.microsoft.com
+glitch.me
+glitch.com
+graph.facebook.com
+accounts.us1.gigya.com
+cdn.arkoselabs.com
+colorbarsmerch.com
+thisfursonadoesnotexist.com
+topcaptchasolver.com
+hotelfroma.fun
+one.mansueto.com
+www.queryly.com
+electricbento.com
+elegantthemes.com
+www.bloglovin.com
+cdn.ko-fi.com
+atsuzaki-playground.neocities.org
+earfoonsuomi.fi
+getvideo.watch
+lakur.bazy-bazy.ru
+warden.arc.io
+www.cme-pro.com
+cdn.plyr.io
+www.edityouraudio.com
+karrinyarra-artists.com
+www.facebook.com
+telepathicmusic.net
+soundtravels.expedia.mx
+mp3cdnd.ytjar.xyz
+centindicator.com
+best-hashtags.net
+lagu.downloadsclub.com
+music.downloadsclub.com
+www.joox.com
+web-retrace.wynk.in
+usercontent.wynk.in
+login.wynk.in
+ping.wynk.in
+layout.wynk.in
+stream.wynk.in
+yt-mp3converter.com
+caramelldansen.mp3juices.red
+donjon.bin.sh
+pokemondb.net
+serebii.net
+anisearch.com
+personality-database.com
+videvo.net
+realradiowilltotal.live
+dualshockers.com
+top.gg
+media.tenor.co
+watson.telemetry.microsoft.com
+www.scottgames.com
+scottgames.com
+www.behindthename.com
+codexnomina.com
+www.seventhsanctum.com
+www.character-generator.org.uk
+www.randomlists.com
+www.palcomp3.com.br
+movies.meetdownload.com
+torun.pl
+camppracticeliquidwrong.live
+www.letras.com
+myfreemp3music.com
+freemp3cloud.com
+lordsofgaming.net
+last.fm
+pelegit.co.il
+continuum.graphics
+thebreakdown.xyz
+download-soundtracks.com
+cravatar.eu
+www.badlion.net
+downloads.khinsider.com
+resourcepack.info
+gamebanana.com
+notifier.win-rar.com
+stpeterline.com
+curseforge.overwolf.com
+www.sportskeeda.com
+wallpaper.dog
+attackofthefanboy.com
+2b2t.org
+wynk.in
+psu.com
+mp1st.com
+diffuser.fm
+songmeanings.com
+www.random-generator.org.uk
+idagrip.com
+www.kapwing.com
+findcatnames.com
+assets.findcatnames.com
+www.findcatnames.com
+awn.com
+fer.al
+perchance.org
+grizly.com
+community.checkpoint.com
+teams.events.data.microsoft.com
+use-tor.adsrvr.org
+secure.adnxs.com
+cms.quantserve.com
+sync.mathtag.com
+protected-by.clarium.io
+ads.stickyadstv.com
+thrtle.com
+zeotap.com
+adscience.nl
+pixel.advertising.com
+sync.tidaltv.com
+px.owneriq.net
+casale-match.dotomi.com
+insight.adsrvr.org
+fw.adsafeprotected.com
+aax.amazon-adsystem.com
+edge-star-shv-01-ort2.facebook.com
+smetrics.aem.playstation.com
+static.adsafeprotected.com
+tidaltv.com
+track.adform.net
+px.moatads.com
+btlr.sharethrough.com
+ce.lijit.com
+rtb.adentifi.com
+sentry.io
+match.justpremium.com
+sync.hgrtb.com
+adfoc.us
+easylist-downloads.adblockplus.org
+p16-tiktokcdn-com.akamaized.net
+log.tiktokv.com
+ib.tiktokv.com
+api-h2.tiktokv.com
+v16m.tiktokcdn.com
+api.tiktokv.com
+v19.tiktokcdn.com
+mon.musical.ly
+api2-16-h2.musical.ly
+api2.musical.ly
+log2.musical.ly
+api2-21-h2.musical.ly
+pghub.io
+imtwjwoasak.com
+btloader.com
+eus.rubiconproject.com
+acdn.adnxs.com
+sync.outbrain.com
+pixel.quantserve.com
+b.ns1p.net
+analytics.tiktok.com
+www.secretofgirls.com
+demoniacult.com
+www.demoniacult.com
+www.demoniashoes.com
+demoniashoes.com
+demoniashoes.myshopify.com
+attn.tv
+pkg.covet.pics
+shopify.covet.pics
+s3static.cashstar.com
+roblox.cashstart.com
+furaffinity.net
+d.furaffinity.net
+c.aaxads.com
+shop.animaljam.com
+api.gameanalytics.com
+use-application-dns.net
+doh.opendns.com
+www.flightrising.com
+www1.flightrising.com
+api.onedrive.com
+cdn.onenote.net
+redd.it
+instachronicles.com
+spaethcom.com
+a1.api.bbc.co.uk
+cloudservices.roku.com
+cdn.bitmovin.com
+upload.wikimedia.org
+googleads.g.doubleclick.net
+picrew.me
+tr.rbxcdn.com
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+v.w-x.co
+telemetry-console.api.playstation.com
+souqcdn.com
+cms.souqcdn.com
+api.directory.signal.org
+turn1.whispersystems.org
+api.cid.samba.tv
+log.prezi.com
+grammarly.io
+files.pumble.com
+androidpay-users-pa.googleapis.com
+lh3.googleusercontent.com
+soa.smext.faa.gov
+api-ga.pumble.com
+www.fractal.is
+api.fractal.is
+api.flagsmith.com
+fractal-game.imgix.net
+fractal-nft.imgix.net
+m.stripe.com
+cdns.gigya.com
+scribe.logs.roku.com
+cooper.logs.roku.com
+raps.ravm.tv
+www.quotev.com
+www.weasyl.com
+cdn.weasyl.com
+lookaside.instagram.com
+www.toyhou.se
+f2.toyhou.se
+www.chickensmoothie.com
+spotify.demdex.net
 #Block Furry stuff
-0.0.0.0     t.furaffinity.net
-0.0.0.0     www.chickensmoothie.com
-0.0.0.0     wikifur.com
-0.0.0.0     logifur.com
-0.0.0.0     lovefurry.com
-0.0.0.0     meetfurs.com
-0.0.0.0     furry.endomesh.com
-0.0.0.0     www.nicafur.com
-0.0.0.0     nycfurs.org
-0.0.0.0     pawstar.com
-0.0.0.0     www.rskemono.com
-0.0.0.0     refurence.net
-0.0.0.0     retrofur.co.uk
-0.0.0.0     rubberasylum.net
-0.0.0.0     scritch.es
-0.0.0.0     severnbronies.co.uk
-0.0.0.0     www.stormweyr.dk
-0.0.0.0     cyantian.net
-0.0.0.0     ukfursuit.spruz.com
-0.0.0.0     thisfursonadoesnotexist.com
-0.0.0.0     yiffy.cz
-0.0.0.0     furrygames.top
-0.0.0.0     www.fuzzballstorytime.com
-0.0.0.0     www.fursvp.com
-0.0.0.0     fursuitreview.com
-0.0.0.0     www.fur.com
-0.0.0.0     furryiff.com
-0.0.0.0     furstore.appspot.com
-0.0.0.0     chickensmoothie.com
-0.0.0.0     www.chickensmoothie.com
-0.0.0.0     breezy.pony.town
-0.0.0.0     event.pony.town
-0.0.0.0     eventblue.pony.town
-0.0.0.0     eventgreen.pony.town
-0.0.0.0     test.pony.town
-0.0.0.0     netdata.pony.town
-0.0.0.0     dashboard.pony.town
-0.0.0.0     beta.pony.town
-0.0.0.0     creatures-of-sonaria-official.fandom.com
-0.0.0.0     status.discord.com
-0.0.0.0     sf16-ies-music-va.tiktokcdn.com
-0.0.0.0     v16m-us.tiktokcdn.com
+t.furaffinity.net
+www.chickensmoothie.com
+wikifur.com
+logifur.com
+lovefurry.com
+meetfurs.com
+furry.endomesh.com
+www.nicafur.com
+nycfurs.org
+pawstar.com
+www.rskemono.com
+refurence.net
+retrofur.co.uk
+rubberasylum.net
+scritch.es
+severnbronies.co.uk
+www.stormweyr.dk
+cyantian.net
+ukfursuit.spruz.com
+thisfursonadoesnotexist.com
+yiffy.cz
+furrygames.top
+www.fuzzballstorytime.com
+www.fursvp.com
+fursuitreview.com
+www.fur.com
+furryiff.com
+furstore.appspot.com
+chickensmoothie.com
+www.chickensmoothie.com
+breezy.pony.town
+event.pony.town
+eventblue.pony.town
+eventgreen.pony.town
+test.pony.town
+netdata.pony.town
+dashboard.pony.town
+beta.pony.town
+creatures-of-sonaria-official.fandom.com
+status.discord.com
+sf16-ies-music-va.tiktokcdn.com
+v16m-us.tiktokcdn.com
 #Discord
-0.0.0.0     gateway.discord.gg
-0.0.0.0     latency.discord.media
-0.0.0.0     cdn.discordapp.com
-0.0.0.0     images-ext-2.discordapp.net
-0.0.0.0     images-ext-1.discordapp.net
-0.0.0.0     media.discord.com
-0.0.0.0     www.discord.com
-0.0.0.0     media.discordapp.net
-0.0.0.0     discord.com
-0.0.0.0     discordstatus.com
-0.0.0.0     us-central4565.discord.media
-0.0.0.0     discord-attachments-uploads-prd.storage.googleapis.com
-0.0.0.0     gateway-us-east1-b.discord.gg
-0.0.0.0     gateway-us-east1-c.discord.gg
+gateway.discord.gg
+latency.discord.media
+cdn.discordapp.com
+images-ext-2.discordapp.net
+images-ext-1.discordapp.net
+media.discord.com
+www.discord.com
+media.discordapp.net
+discord.com
+discordstatus.com
+us-central4565.discord.media
+discord-attachments-uploads-prd.storage.googleapis.com
+gateway-us-east1-b.discord.gg
+gateway-us-east1-c.discord.gg
 #Roblox
-0.0.0.0     accountsettings.roblox.com
-0.0.0.0     gameinternationalization.roblox.com
-0.0.0.0     economy.roblox.com
-0.0.0.0     client-telemetry.roblox.com
-0.0.0.0     presence.roblox.com
-0.0.0.0     assetgame.roblox.com
-0.0.0.0     auth.roblox.com
-0.0.0.0     users.roblox.com
-0.0.0.0     friends.roblox.com
-0.0.0.0     privatemessages.roblox.com
-0.0.0.0     pangle.io
-127.0.0.1   repository.su
+accountsettings.roblox.com
+gameinternationalization.roblox.com
+economy.roblox.com
+client-telemetry.roblox.com
+presence.roblox.com
+assetgame.roblox.com
+auth.roblox.com
+users.roblox.com
+friends.roblox.com
+privatemessages.roblox.com
+pangle.io
+repository.su
