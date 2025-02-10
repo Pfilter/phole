@@ -98,8 +98,7 @@ sync.bfmio.com
 ads.us.e-planning.net
 gw-iad-bid.ymmobi.com
 sync.smartadserver.com
-(^|.)seedtag.com$
-seedtag.com
+||seedtag.com^
 s.seedtag.com
 cootlogix.com
 sync.cootlogix.com
