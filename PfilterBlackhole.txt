@@ -98,8 +98,8 @@ sync.bfmio.com
 ads.us.e-planning.net
 gw-iad-bid.ymmobi.com
 sync.smartadserver.com
+||doubleclick.net^
 ||seedtag.com^
-s.seedtag.com
 ||cootlogix.com^
 sync.cootlogix.com
 securepubads.g.doubleclick.net
@@ -394,7 +394,6 @@ awn.com
 fer.al
 perchance.org
 grizly.com
-community.checkpoint.com
 teams.events.data.microsoft.com
 use-tor.adsrvr.org
 secure.adnxs.com
