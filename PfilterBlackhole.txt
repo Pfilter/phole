@@ -623,7 +623,7 @@ pglstatp-toutiao-b.com
 pglstatp-toutiao.com
 sf3-ttcdn-tos.pstatp.com
 #Bytedance
-||99uri.cn^^
+||99uri.cn^
 ||99uri.com^
 ||activity01.com^
 ||activity02.com^
@@ -749,7 +749,7 @@ sf3-ttcdn-tos.pstatp.com
 ||bytenewst.com^
 ||byteorg.com^
 ||byteorge.com^
-||byteoversea.com @!cn^
+#||byteoversea.com @!cn^
 ||byteq5k.com^
 ||byteq8u.net^
 ||bytescm.com^
@@ -800,8 +800,8 @@ sf3-ttcdn-tos.pstatp.com
 ||ibdxigualive.com^
 ||ibdxiguavod.com^
 ||ibytedapm.com^
-||ibytedtos.com @!cn^
-||ibyteimg.com @!cn^
+#||ibytedtos.com @!cn^
+#||ibyteimg.com @!cn^
 ||icphoto.cn^
 ||idouyinliving.com^
 ||idouyinpic.com^
@@ -966,10 +966,10 @@ sf3-ttcdn-tos.pstatp.com
 ||huoshanstatic.com^
 ||huoshanzhibo.com^
 # 豆包
-||doubao.com @cn^
+#||doubao.com @cn^
 # 扣子
-||coze.cn @cn^
-||coze.com @!cn^
+#||coze.cn @cn^
+#||coze.com @!cn^
 # 西瓜视频
 ||ixigua.com^
 ||ixiguavideo.com^
