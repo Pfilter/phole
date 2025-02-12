@@ -516,6 +516,7 @@ spotify.demdex.net
 t.furaffinity.net
 www.chickensmoothie.com
 ||wikifur.com^
+||animaljam.com^
 ||logifur.com^
 ||lovefurry.com^
 ||meetfurs.com^
