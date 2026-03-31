@@ -1040,3 +1040,5 @@ samples.voice.cti.roku.com
 traces.sr.roku.com
 track.sr.roku.com
 wwwimg.roku.com
+||robolox.com^
+||discord.gg^
