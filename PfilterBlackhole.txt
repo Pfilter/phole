@@ -2124281,3 +2124281,12 @@ www.zztits.com
 www.zztube.com
 www.zzztube.com
 www.zzzzporn.com
+## Block DoH
+commons.host
+dns.nextdns.io
+doh.powerdns.org
+blahdns.com	
+dnswarden.com
+rdns.faelix.net
+tor.cloudflare-dns.com
+use-application-dns.net
