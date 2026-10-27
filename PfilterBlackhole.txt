@@ -2124290,3 +2124290,19 @@ dnswarden.com
 rdns.faelix.net
 tor.cloudflare-dns.com
 use-application-dns.net
+## Stuff
+||4pst.us^
+||cootlogix.com^
+api.renewedtab.com
+api.olaexbiz.com
+apis.roblox.com
+||grammarly.net^
+||grammarly.com^
+||sardine.ai^
+cdn.woohoostudios.io
+||coda.io^
+continuum.dds.microsoft.com
+||disabled.invalid*
+edge.prelude.dev
+tunnel.googlezip.net
+||superhumanstatic.com^
